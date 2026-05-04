@@ -1,0 +1,352 @@
+game_id,period,gc_seconds,defender_id,defender_name,shooter_id,shooter_name,n_intrusion_episodes,max_episode_score,total_contact_frames,max_intrusion_depth,primary_joint,cvi_landing_space_flag,violation_type
+22500005,1,661.0,1628983,Shai Gilgeous-Alexander,1629614,Andrew Nembhard,3,0.0,19,0.035,j_lElbow,False,Clean
+22500005,1,596.0,1631097,Bennedict Mathurin,1628392,Isaiah Hartenstein,14,0.0,135,0.184,j_lWrist,False,Clean
+22500005,1,551.0,1628983,Shai Gilgeous-Alexander,1629614,Andrew Nembhard,3,0.0,19,0.035,j_lElbow,False,Clean
+22500005,1,547.0,1627783,Pascal Siakam,1630598,Aaron Wiggins,2,0.0,32,0.0894,j_rWrist,False,Clean
+22500005,1,475.0,1628983,Shai Gilgeous-Alexander,1630543,Isaiah Jackson,1,0.0,3,0.009,j_lWrist,False,Clean
+22500005,1,441.0,1631097,Bennedict Mathurin,1642964,Brooks Barnhizer,0,0.0,0,0.0,none,False,Clean
+22500005,1,416.0,1628983,Shai Gilgeous-Alexander,1630174,Aaron Nesmith,5,0.0,24,0.0665,j_lElbow,False,Clean
+22500005,1,319.0,1627783,Pascal Siakam,1642964,Brooks Barnhizer,1,0.0,7,0.0695,j_lWrist,False,Clean
+22500005,1,250.0,1630167,Obi Toppin,1631119,Jaylin Williams,6,0.0006,56,0.1499,j_lWrist,True,Crowding
+22500005,1,79.0,1642349,Ajay Mitchell,1641767,Ben Sheppard,7,0.0018,22,0.0773,j_rElbow,True,Crowding
+22500005,2,615.0,1629614,Andrew Nembhard,1642959,Chris Youngblood,3,0.0,22,0.0796,j_lWrist,False,Clean
+22500005,2,541.0,1630174,Aaron Nesmith,1628392,Isaiah Hartenstein,12,0.0002,86,0.0916,j_rElbow,True,Crowding
+22500005,2,509.0,1629614,Andrew Nembhard,1642959,Chris Youngblood,3,0.0,22,0.0796,j_lWrist,False,Clean
+22500005,2,428.0,1628983,Shai Gilgeous-Alexander,1628396,Tony Bradley,0,0.0,0,0.0,none,False,Clean
+22500005,2,364.0,1627783,Pascal Siakam,1631119,Jaylin Williams,3,0.001,4,0.0255,j_rShoulder,True,Crowding
+22500005,2,324.0,1628392,Isaiah Hartenstein,1628396,Tony Bradley,8,0.0,62,0.0846,j_lWrist,False,Clean
+22500005,2,303.0,1627783,Pascal Siakam,1631096,Chet Holmgren,10,0.0002,72,0.1429,j_rWrist,True,Crowding
+22500005,2,297.0,1642349,Ajay Mitchell,1641767,Ben Sheppard,1,0.0,5,0.0441,j_lWrist,False,Clean
+22500005,2,229.0,1631096,Chet Holmgren,1631097,Bennedict Mathurin,4,0.0,31,0.0919,j_lWrist,False,Clean
+22500005,2,173.0,1630167,Obi Toppin,1631096,Chet Holmgren,1,0.0,8,0.007,j_rWrist,False,Clean
+22500005,2,98.0,1631096,Chet Holmgren,1641716,Jarace Walker,3,0.0,4,0.0236,j_lElbow,False,Clean
+22500005,2,66.0,1642349,Ajay Mitchell,1630174,Aaron Nesmith,4,0.0003,10,0.0853,j_lWrist,True,Crowding
+22500005,2,14.5,1631097,Bennedict Mathurin,1631172,Ousmane Dieng,0,0.0,0,0.0,none,False,Clean
+22500005,3,701.0,1627783,Pascal Siakam,1628392,Isaiah Hartenstein,6,0.0,38,0.1546,j_lElbow,False,Clean
+22500005,3,517.0,1630598,Aaron Wiggins,1630174,Aaron Nesmith,5,0.0,28,0.1437,j_lKnee,False,Clean
+22500005,3,497.0,1628392,Isaiah Hartenstein,1630543,Isaiah Jackson,8,0.0001,42,0.1048,j_rWrist,True,Crowding
+22500005,3,456.0,1630598,Aaron Wiggins,1630174,Aaron Nesmith,5,0.0,28,0.1437,j_lKnee,False,Clean
+22500005,3,341.0,1631097,Bennedict Mathurin,1642964,Brooks Barnhizer,2,0.0,14,0.1712,j_lElbow,False,Clean
+22500005,3,265.0,1629652,Luguentz Dort,1630643,Jay Huff,6,0.0003,19,0.1017,j_lWrist,True,Crowding
+22500005,3,233.0,1631097,Bennedict Mathurin,1631119,Jaylin Williams,3,0.0003,10,0.0564,j_lShoulder,True,Crowding
+22500005,3,114.0,1628983,Shai Gilgeous-Alexander,1641767,Ben Sheppard,2,0.0,18,0.1621,j_lWrist,False,Clean
+22500005,3,74.0,1627783,Pascal Siakam,1630598,Aaron Wiggins,2,0.0,13,0.0875,j_lWrist,False,Clean
+22500005,3,60.0,1642349,Ajay Mitchell,1643007,Taelon Peter,10,0.0002,39,0.1002,j_rElbow,True,Crowding
+22500005,4,667.0,1627783,Pascal Siakam,1631172,Ousmane Dieng,0,0.0,0,0.0,none,False,Clean
+22500005,4,636.0,1641767,Ben Sheppard,1630598,Aaron Wiggins,0,0.0,0,0.0,none,False,Clean
+22500005,4,570.0,1628392,Isaiah Hartenstein,1628396,Tony Bradley,18,0.0006,95,0.1876,j_rElbow,True,Crowding
+22500005,4,537.0,1631097,Bennedict Mathurin,1628392,Isaiah Hartenstein,11,0.0005,57,0.1816,j_lElbow,True,Crowding
+22500005,4,500.0,1628983,Shai Gilgeous-Alexander,1631097,Bennedict Mathurin,7,0.0007,23,0.1025,j_lElbow,True,Crowding
+22500005,4,402.0,1631097,Bennedict Mathurin,1642349,Ajay Mitchell,3,0.0,16,0.1427,j_lWrist,False,Clean
+22500005,4,389.0,1628392,Isaiah Hartenstein,1630174,Aaron Nesmith,2,0.0,14,0.0298,j_lWrist,False,Clean
+22500005,4,368.0,1629652,Luguentz Dort,1630174,Aaron Nesmith,12,0.0002,67,0.1149,j_lWrist,True,Crowding
+22500005,4,354.0,1628396,Tony Bradley,1628392,Isaiah Hartenstein,25,0.0,246,0.0837,j_lElbow,False,Clean
+22500005,4,339.0,1631096,Chet Holmgren,1630167,Obi Toppin,2,0.0,4,0.0161,j_rWrist,False,Clean
+22500005,4,202.0,1631097,Bennedict Mathurin,1628983,Shai Gilgeous-Alexander,10,0.0002,109,0.0864,j_lElbow,True,Crowding
+22500005,4,190.0,1628983,Shai Gilgeous-Alexander,1630167,Obi Toppin,10,0.0014,84,0.1189,j_rElbow,True,Crowding
+22500005,4,177.0,1631097,Bennedict Mathurin,1629652,Luguentz Dort,14,0.0003,107,0.1648,j_lWrist,True,Crowding
+22500005,4,142.0,1631097,Bennedict Mathurin,1631096,Chet Holmgren,5,0.0,25,0.1903,j_rElbow,False,Clean
+22500005,4,74.0,1631096,Chet Holmgren,1641716,Jarace Walker,4,0.0,42,0.0822,j_lWrist,False,Clean
+22500005,4,13.0,1628983,Shai Gilgeous-Alexander,1630167,Obi Toppin,10,0.0014,84,0.1189,j_rElbow,True,Crowding
+22500005,5,272.0,1631097,Bennedict Mathurin,1642349,Ajay Mitchell,10,0.0,37,0.0936,j_lElbow,False,Clean
+22500005,5,210.0,1641767,Ben Sheppard,1628983,Shai Gilgeous-Alexander,0,0.0,0,0.0,none,False,Clean
+22500005,5,206.0,1627783,Pascal Siakam,1629652,Luguentz Dort,24,0.0092,152,0.3242,j_midHip,True,Crowding
+22500005,5,196.0,1631097,Bennedict Mathurin,1628983,Shai Gilgeous-Alexander,3,0.0,20,0.0561,j_lWrist,False,Clean
+22500005,5,176.0,1628983,Shai Gilgeous-Alexander,1641716,Jarace Walker,3,0.0,14,0.1296,j_rElbow,False,Clean
+22500005,5,106.0,1642349,Ajay Mitchell,1641767,Ben Sheppard,3,0.0,6,0.0455,j_lElbow,False,Clean
+22500005,5,54.2,1642349,Ajay Mitchell,1641767,Ben Sheppard,3,0.0,6,0.0455,j_lElbow,False,Clean
+22500005,6,251.0,1628983,Shai Gilgeous-Alexander,1631097,Bennedict Mathurin,0,0.0,0,0.0,none,False,Clean
+22500005,6,59.8,1628983,Shai Gilgeous-Alexander,1641767,Ben Sheppard,2,0.0081,5,0.0576,j_rHip,True,Crowding
+22500005,6,28.8,1628983,Shai Gilgeous-Alexander,1627783,Pascal Siakam,1,0.0001,1,0.0022,j_rElbow,True,Crowding
+22500005,6,20.7,1628983,Shai Gilgeous-Alexander,1641716,Jarace Walker,5,0.0,43,0.0504,j_lElbow,False,Clean
+22500085,1,669.0,1630529,Herbert Jones,1629630,Ja Morant,6,0.0,35,0.1475,j_lElbow,False,Clean
+22500085,1,656.0,1642377,Jaylen Wells,1629673,Jordan Poole,4,0.0,29,0.0749,j_lWrist,False,Clean
+22500085,1,604.0,1629627,Zion Williamson,203484,Kentavious Caldwell-Pope,0,0.0,0,0.0,none,False,Clean
+22500085,1,578.0,1629673,Jordan Poole,1642377,Jaylen Wells,6,0.0006,38,0.0706,j_rWrist,True,Crowding
+22500085,1,516.0,1629630,Ja Morant,1630529,Herbert Jones,1,0.0,2,0.0112,j_rElbow,False,Clean
+22500085,1,230.0,1628991,Jaren Jackson Jr.,1630530,Trey Murphy III,3,0.0028,17,0.092,j_rShoulder,True,Crowding
+22500085,1,195.0,1628991,Jaren Jackson Jr.,1630621,Hunter Dickinson,16,0.0002,116,0.1739,j_rElbow,True,Crowding
+22500085,1,155.0,1629627,Zion Williamson,1642907,Cedric Coward,1,0.0,8,0.0509,j_lWrist,False,Clean
+22500085,1,140.0,1642907,Cedric Coward,1642847,Jeremiah Fears,10,0.0001,102,0.178,j_rElbow,True,Crowding
+22500085,1,14.1,1629627,Zion Williamson,1642377,Jaylen Wells,1,0.0,2,0.0183,j_rWrist,False,Clean
+22500085,2,661.0,1629627,Zion Williamson,1629111,Jock Landale,2,0.0,9,0.1444,j_lElbow,False,Clean
+22500085,2,580.0,1629630,Ja Morant,1642274,Yves Missi,2,0.0007,3,0.0188,j_rElbow,True,Crowding
+22500085,2,547.0,1642847,Jeremiah Fears,1629630,Ja Morant,0,0.0,0,0.0,none,False,Clean
+22500085,2,539.0,1628991,Jaren Jackson Jr.,1642274,Yves Missi,5,0.0,24,0.0874,j_lWrist,False,Clean
+22500085,2,505.0,1642377,Jaylen Wells,1641722,Jordan Hawkins,2,0.0,18,0.0528,j_lWrist,False,Clean
+22500085,2,495.0,1629673,Jordan Poole,1642377,Jaylen Wells,1,0.0,8,0.0147,j_lWrist,False,Clean
+22500085,2,436.0,1642907,Cedric Coward,1642852,Derik Queen,6,0.0,52,0.133,j_lElbow,False,Clean
+22500085,2,375.0,1630180,Saddiq Bey,1629111,Jock Landale,3,0.0,36,0.1818,j_lElbow,False,Clean
+22500085,2,315.0,1642852,Derik Queen,1629111,Jock Landale,11,0.0,69,0.0973,j_lElbow,False,Clean
+22500085,2,288.0,1629673,Jordan Poole,1628991,Jaren Jackson Jr.,0,0.0,0,0.0,none,False,Clean
+22500085,2,272.0,1630583,Santi Aldama,1630530,Trey Murphy III,8,0.0,69,0.1469,j_lElbow,False,Clean
+22500085,2,158.0,1629111,Jock Landale,1630529,Herbert Jones,12,0.0015,75,0.1876,j_lShoulder,True,Crowding
+22500085,2,130.0,1641765,Olivier-Maxence Prosper,1629627,Zion Williamson,18,0.0101,66,0.1555,j_rElbow,True,Crowding
+22500085,2,73.0,1629627,Zion Williamson,203484,Kentavious Caldwell-Pope,3,0.0009,12,0.0993,j_rWrist,True,Crowding
+22500085,2,64.0,203484,Kentavious Caldwell-Pope,1629673,Jordan Poole,9,0.0013,73,0.074,j_rShoulder,True,Crowding
+22500085,3,600.0,1629627,Zion Williamson,1629111,Jock Landale,6,0.0,28,0.1394,j_lWrist,False,Clean
+22500085,3,569.0,1642377,Jaylen Wells,1630529,Herbert Jones,0,0.0,0,0.0,none,False,Clean
+22500085,3,479.0,1642274,Yves Missi,1641765,Olivier-Maxence Prosper,4,0.0001,13,0.0657,j_lWrist,True,Crowding
+22500085,3,405.0,1629627,Zion Williamson,1641765,Olivier-Maxence Prosper,3,0.0,13,0.0675,j_lElbow,False,Clean
+22500085,3,377.0,1630530,Trey Murphy III,1630583,Santi Aldama,2,0.0,4,0.0708,j_rElbow,False,Clean
+22500085,3,358.0,203484,Kentavious Caldwell-Pope,1642274,Yves Missi,6,0.0,70,0.2823,j_lHip,False,Clean
+22500085,3,338.0,1630583,Santi Aldama,1630180,Saddiq Bey,10,0.0001,125,0.0862,j_lWrist,True,Crowding
+22500085,3,220.0,1628991,Jaren Jackson Jr.,1642852,Derik Queen,11,0.0002,62,0.1178,j_lWrist,True,Crowding
+22500085,3,211.0,1641722,Jordan Hawkins,1642907,Cedric Coward,1,0.0,2,0.0562,j_lElbow,False,Clean
+22500085,3,179.0,1630180,Saddiq Bey,1630583,Santi Aldama,7,0.0,39,0.0766,j_lWrist,False,Clean
+22500085,3,58.9,1642847,Jeremiah Fears,1628991,Jaren Jackson Jr.,0,0.0,0,0.0,none,False,Clean
+22500085,4,629.0,1630529,Herbert Jones,1629111,Jock Landale,0,0.0,0,0.0,none,False,Clean
+22500085,4,549.0,1629111,Jock Landale,1629627,Zion Williamson,2,0.0,8,0.0658,j_lWrist,False,Clean
+22500085,4,512.0,1642285,Cam Spencer,1642852,Derik Queen,0,0.0,0,0.0,none,False,Clean
+22500085,4,398.0,1628991,Jaren Jackson Jr.,1630529,Herbert Jones,9,0.0,55,0.0658,j_lElbow,False,Clean
+22500085,4,360.0,1630530,Trey Murphy III,1629111,Jock Landale,3,0.0,15,0.0744,j_lElbow,False,Clean
+22500085,4,292.0,1628991,Jaren Jackson Jr.,1642274,Yves Missi,6,0.0,31,0.1008,j_lElbow,False,Clean
+22500085,4,272.0,1642274,Yves Missi,203484,Kentavious Caldwell-Pope,5,0.0003,25,0.1486,j_lElbow,True,Crowding
+22500085,4,214.0,203484,Kentavious Caldwell-Pope,1629673,Jordan Poole,0,0.0,0,0.0,none,False,Clean
+22500085,4,170.0,1630529,Herbert Jones,1628991,Jaren Jackson Jr.,7,0.0004,30,0.1854,j_rWrist,True,Crowding
+22500085,4,146.0,1629630,Ja Morant,1630529,Herbert Jones,3,0.0,12,0.0973,j_lShoulder,False,Clean
+22500085,4,92.0,1629630,Ja Morant,1630529,Herbert Jones,3,0.0,12,0.0973,j_lShoulder,False,Clean
+22500085,4,83.0,1629627,Zion Williamson,1630583,Santi Aldama,3,0.0002,7,0.1397,j_lWrist,True,Crowding
+22500085,4,16.7,1641765,Olivier-Maxence Prosper,1630530,Trey Murphy III,0,0.0,0,0.0,none,False,Clean
+22500085,4,5.6,203484,Kentavious Caldwell-Pope,1630180,Saddiq Bey,2,0.0,27,0.0761,j_lWrist,False,Clean
+22500085,4,1.4,1629630,Ja Morant,1630530,Trey Murphy III,6,0.0001,33,0.1078,j_rWrist,True,Crowding
+22500127,1,641.0,1627826,Ivica Zubac,203110,Draymond Green,5,0.0,96,0.082,j_lWrist,False,Clean
+22500127,1,543.0,1630228,Jonathan Kuminga,201935,James Harden,3,0.0001,16,0.0175,j_rWrist,True,Crowding
+22500127,1,520.0,201935,James Harden,1630228,Jonathan Kuminga,15,0.0,87,0.0805,j_lWrist,False,Clean
+22500127,1,135.0,1641764,Brandin Podziemski,1627739,Kris Dunn,3,0.0,22,0.1731,j_lElbow,False,Clean
+22500127,1,91.0,201935,James Harden,201143,Al Horford,2,0.0,16,0.0414,j_lWrist,False,Clean
+22500127,1,10.2,201935,James Harden,1627780,Gary Payton II,3,0.0001,22,0.1348,j_lShoulder,True,Crowding
+22500127,2,361.0,202695,Kawhi Leonard,1642954,Will Richard,0,0.0,0,0.0,none,False,Clean
+22500127,2,220.0,201935,James Harden,201939,Stephen Curry,2,0.0,7,0.1424,j_lElbow,False,Clean
+22500127,2,111.0,201935,James Harden,1630228,Jonathan Kuminga,1,0.0,4,0.0099,j_lWrist,False,Clean
+22500127,3,650.0,201935,James Harden,203110,Draymond Green,1,0.0,8,0.0361,j_rWrist,False,Clean
+22500127,3,617.0,202695,Kawhi Leonard,203110,Draymond Green,0,0.0,0,0.0,none,False,Clean
+22500127,3,534.0,201939,Stephen Curry,1627884,Derrick Jones Jr.,8,0.0002,45,0.0805,j_lWrist,True,Crowding
+22500127,3,255.0,202695,Kawhi Leonard,1630228,Jonathan Kuminga,5,0.0,34,0.1257,j_lElbow,False,Clean
+22500127,4,698.0,1628381,John Collins,1642366,Quinten Post,7,0.0019,36,0.2449,j_rWrist,True,Crowding
+22500127,4,662.0,201572,Brook Lopez,1630541,Moses Moody,4,0.0001,37,0.1264,j_rWrist,True,Crowding
+22500127,4,563.0,202695,Kawhi Leonard,1630541,Moses Moody,2,0.0002,11,0.0864,j_lWrist,True,Crowding
+22500127,4,338.0,201939,Stephen Curry,1627739,Kris Dunn,1,0.0001,1,0.002,j_rWrist,True,Crowding
+22500127,4,264.0,1628381,John Collins,1630611,Gui Santos,1,0.0,8,0.0969,j_lWrist,False,Clean
+22500127,4,167.0,1641764,Brandin Podziemski,203992,Bogdan Bogdanović,2,0.0,4,0.035,j_lElbow,False,Clean
+22500127,4,48.0,1642353,Cam Christie,1630611,Gui Santos,2,0.0,4,0.0453,j_lWrist,False,Clean
+22500179,1,596.0,1642264,Stephon Castle,1629029,Luka Dončić,20,0.001,150,0.0563,j_lWrist,True,Crowding
+22500179,1,487.0,1629029,Luka Dončić,203084,Harrison Barnes,1,0.0,6,0.1596,j_lShoulder,False,Clean
+22500179,1,458.0,1629060,Rui Hachimura,1641705,Victor Wembanyama,6,0.0,26,0.0925,j_lWrist,False,Clean
+22500179,1,309.0,1642264,Stephon Castle,1642261,Dalton Knecht,1,0.0011,1,0.0289,j_rElbow,True,Crowding
+22500179,1,296.0,1629029,Luka Dončić,1631110,Jeremy Sochan,14,0.0077,34,0.2359,j_rElbow,True,Crowding
+22500179,1,268.0,203482,Kelly Olynyk,1631222,Jake LaRavia,0,0.0,0,0.0,none,False,Clean
+22500179,1,196.0,1629029,Luka Dončić,203482,Kelly Olynyk,0,0.0,0,0.0,none,False,Clean
+22500179,1,60.0,1629029,Luka Dončić,1631110,Jeremy Sochan,14,0.0077,34,0.2359,j_rElbow,True,Crowding
+22500179,1,48.6,1629640,Keldon Johnson,1629029,Luka Dončić,1,0.0,7,0.0242,j_lWrist,False,Clean
+22500179,2,702.0,203935,Marcus Smart,203084,Harrison Barnes,4,0.0015,43,0.1116,j_lShoulder,True,Crowding
+22500179,2,644.0,1642264,Stephon Castle,1642355,Bronny James,0,0.0,0,0.0,none,False,Clean
+22500179,2,605.0,1641733,Nick Smith Jr.,1642264,Stephon Castle,0,0.0,0,0.0,none,False,Clean
+22500179,2,519.0,203935,Marcus Smart,1641705,Victor Wembanyama,6,0.0007,52,0.1723,j_rWrist,True,Crowding
+22500179,2,450.0,1642264,Stephon Castle,1629029,Luka Dončić,15,0.0,116,0.0918,j_lElbow,False,Clean
+22500179,2,410.0,1630170,Devin Vassell,1642355,Bronny James,0,0.0,0,0.0,none,False,Clean
+22500179,2,352.0,1642264,Stephon Castle,1629020,Jarred Vanderbilt,2,0.0001,7,0.0526,j_rWrist,True,Crowding
+22500179,2,308.0,1629060,Rui Hachimura,1630170,Devin Vassell,1,0.0,3,0.0084,j_rWrist,False,Clean
+22500179,2,240.0,1629029,Luka Dončić,203482,Kelly Olynyk,0,0.0,0,0.0,none,False,Clean
+22500179,2,155.0,1629640,Keldon Johnson,1629020,Jarred Vanderbilt,1,0.0,2,0.0041,j_lWrist,False,Clean
+22500179,2,26.2,1629029,Luka Dončić,1630170,Devin Vassell,3,0.0,18,0.034,j_lElbow,False,Clean
+22500179,2,0.5,1641705,Victor Wembanyama,1629020,Jarred Vanderbilt,3,0.0,38,0.1016,j_lElbow,False,Clean
+22500179,3,588.0,1641705,Victor Wembanyama,1629029,Luka Dončić,2,0.0,19,0.1684,j_rElbow,False,Clean
+22500179,3,499.0,203935,Marcus Smart,1630577,Julian Champagnie,4,0.0,16,0.0742,j_lElbow,False,Clean
+22500179,3,641.0,1630170,Devin Vassell,1631222,Jake LaRavia,8,0.0,60,0.0436,j_lWrist,False,Clean
+22500179,3,412.0,203084,Harrison Barnes,1629028,Deandre Ayton,8,0.0001,43,0.0494,j_rWrist,True,Crowding
+22500179,3,355.0,1642264,Stephon Castle,203935,Marcus Smart,7,0.0,48,0.0987,j_lElbow,False,Clean
+22500179,3,306.0,1641705,Victor Wembanyama,1631222,Jake LaRavia,5,0.0,39,0.0798,j_lWrist,False,Clean
+22500179,3,256.0,1641705,Victor Wembanyama,1629020,Jarred Vanderbilt,6,0.0,30,0.0913,j_lKnee,False,Clean
+22500179,3,221.0,1630170,Devin Vassell,1629028,Deandre Ayton,0,0.0,0,0.0,none,False,Clean
+22500179,3,210.0,1629637,Jaxson Hayes,1630170,Devin Vassell,1,0.0,6,0.0133,j_lWrist,False,Clean
+22500179,3,171.0,1642264,Stephon Castle,1629637,Jaxson Hayes,8,0.0,46,0.1651,j_lElbow,False,Clean
+22500179,3,112.0,1642264,Stephon Castle,1642261,Dalton Knecht,0,0.0,0,0.0,none,False,Clean
+22500179,3,101.0,1629029,Luka Dončić,1631110,Jeremy Sochan,10,0.0005,28,0.0797,j_lWrist,True,Crowding
+22500179,3,86.0,1631110,Jeremy Sochan,203935,Marcus Smart,3,0.0,27,0.086,j_rElbow,False,Clean
+22500179,3,72.0,1629029,Luka Dončić,1642264,Stephon Castle,8,0.0004,24,0.0623,j_rElbow,True,Crowding
+22500179,3,42.4,203935,Marcus Smart,1630322,Lindy Waters III,1,0.0001,1,0.0014,j_lShoulder,True,Crowding
+22500179,4,688.0,1631110,Jeremy Sochan,1642261,Dalton Knecht,1,0.0001,1,0.0028,j_lWrist,True,Crowding
+22500179,4,563.0,1629637,Jaxson Hayes,1629640,Keldon Johnson,1,0.0,9,0.1254,j_lElbow,False,Clean
+22500179,4,517.0,1629637,Jaxson Hayes,203084,Harrison Barnes,0,0.0,0,0.0,none,False,Clean
+22500179,4,478.0,1642264,Stephon Castle,1629029,Luka Dončić,14,0.0009,171,0.0986,j_lWrist,True,Crowding
+22500179,4,427.0,1631222,Jake LaRavia,203084,Harrison Barnes,0,0.0,0,0.0,none,False,Clean
+22500179,4,398.0,1631222,Jake LaRavia,1631110,Jeremy Sochan,4,0.0,42,0.0903,j_lWrist,False,Clean
+22500179,4,369.0,1629029,Luka Dončić,1631110,Jeremy Sochan,5,0.0,17,0.0447,j_lWrist,False,Clean
+22500179,4,259.0,1642264,Stephon Castle,1629028,Deandre Ayton,19,0.0006,120,0.1786,j_rWrist,True,Crowding
+22500179,4,234.0,1629029,Luka Dončić,203084,Harrison Barnes,1,0.0,4,0.0522,j_lElbow,False,Clean
+22500179,4,225.0,1641705,Victor Wembanyama,1629060,Rui Hachimura,10,0.0004,41,0.1102,j_lWrist,True,Crowding
+22500179,4,181.0,203935,Marcus Smart,1630577,Julian Champagnie,2,0.0,20,0.1,j_lElbow,False,Clean
+22500179,4,168.0,1641705,Victor Wembanyama,203935,Marcus Smart,9,0.0001,69,0.1349,j_rElbow,True,Crowding
+22500179,4,87.0,1629028,Deandre Ayton,203084,Harrison Barnes,2,0.0,8,0.0931,j_lElbow,False,Clean
+22500179,4,35.4,1629060,Rui Hachimura,1630577,Julian Champagnie,2,0.0,5,0.0437,j_rElbow,False,Clean
+22500179,4,13.3,203935,Marcus Smart,1631110,Jeremy Sochan,2,0.0,10,0.0708,j_rElbow,False,Clean
+22500179,4,0.2,1630577,Julian Champagnie,1631222,Jake LaRavia,4,0.0,19,0.0881,j_lElbow,False,Clean
+22500342,1,695.0,1641709,Ausar Thompson,1629057,Robert Williams III,2,0.0,6,0.1024,j_rElbow,False,Clean
+22500342,1,650.0,1641709,Ausar Thompson,1629057,Robert Williams III,2,0.0,6,0.1024,j_rElbow,False,Clean
+22500342,1,510.0,1630166,Deni Avdija,1641709,Ausar Thompson,8,0.0003,30,0.1004,j_rShoulder,True,Crowding
+22500342,1,506.0,1630166,Deni Avdija,1629130,Duncan Robinson,3,0.0,9,0.0158,j_lWrist,False,Clean
+22500342,1,408.0,1641739,Toumani Camara,1630595,Cade Cunningham,6,0.0001,29,0.0462,j_lWrist,True,Crowding
+22500342,1,356.0,1631105,Jalen Duren,1631321,Sidy Cissoko,10,0.0,56,0.0864,j_lElbow,False,Clean
+22500342,1,176.0,1630166,Deni Avdija,1630191,Isaiah Stewart,4,0.0,29,0.053,j_lWrist,False,Clean
+22500342,1,149.0,1631101,Shaedon Sharpe,1630191,Isaiah Stewart,10,0.0013,65,0.1253,j_lWrist,True,Crowding
+22500342,1,119.0,1631101,Shaedon Sharpe,1641842,Ronald Holland II,1,0.0,4,0.035,j_lWrist,False,Clean
+22500342,1,57.3,1641842,Ronald Holland II,1631200,Kris Murray,0,0.0,0,0.0,none,False,Clean
+22500342,2,691.0,1630191,Isaiah Stewart,1631200,Kris Murray,0,0.0,0,0.0,none,False,Clean
+22500342,2,655.0,1631093,Jaden Ivey,1631126,Caleb Love,2,0.0,7,0.083,j_lShoulder,False,Clean
+22500342,2,639.0,1641842,Ronald Holland II,203924,Jerami Grant,2,0.0,19,0.0348,j_lWrist,False,Clean
+22500342,2,563.0,1631321,Sidy Cissoko,1630191,Isaiah Stewart,12,0.0009,83,0.0822,j_lWrist,True,Crowding
+22500342,2,511.0,203924,Jerami Grant,1641842,Ronald Holland II,7,0.001,36,0.1887,j_lWrist,True,Crowding
+22500342,2,488.0,203924,Jerami Grant,1629750,Javonte Green,5,0.0,37,0.0688,j_lElbow,False,Clean
+22500342,2,474.0,1641871,Duop Reath,1631105,Jalen Duren,7,0.0036,28,0.0914,j_rWrist,True,Crowding
+22500342,2,411.0,1631105,Jalen Duren,1641739,Toumani Camara,2,0.0001,6,0.028,j_rWrist,True,Crowding
+22500342,2,377.0,1630595,Cade Cunningham,1641739,Toumani Camara,3,0.0,34,0.0759,j_lElbow,False,Clean
+22500342,2,305.0,1641709,Ausar Thompson,1641739,Toumani Camara,1,0.0,4,0.124,j_lHip,False,Clean
+22500342,2,265.0,202699,Tobias Harris,203924,Jerami Grant,7,0.0032,53,0.0974,j_lElbow,True,Crowding
+22500342,2,217.0,203924,Jerami Grant,202699,Tobias Harris,6,0.0,59,0.1231,j_lWrist,False,Clean
+22500342,2,196.0,1631105,Jalen Duren,1630166,Deni Avdija,1,0.0,3,0.045,j_rElbow,False,Clean
+22500342,2,173.0,1631105,Jalen Duren,203924,Jerami Grant,2,0.0004,4,0.1701,j_rWrist,True,Crowding
+22500342,2,34.2,1630166,Deni Avdija,1641709,Ausar Thompson,11,0.0002,59,0.1768,j_rWrist,True,Crowding
+22500342,2,10.1,1630166,Deni Avdija,1642450,Daniss Jenkins,0,0.0,0,0.0,none,False,Clean
+22500342,2,0.5,1630595,Cade Cunningham,1629057,Robert Williams III,8,0.0,73,0.0918,j_lElbow,False,Clean
+22500342,3,680.0,1631321,Sidy Cissoko,1629130,Duncan Robinson,2,0.0,39,0.1822,j_rElbow,False,Clean
+22500342,3,626.0,1631105,Jalen Duren,1631321,Sidy Cissoko,3,0.0,10,0.0403,j_rElbow,False,Clean
+22500342,3,582.0,1631321,Sidy Cissoko,1630595,Cade Cunningham,4,0.0,24,0.0751,j_lWrist,False,Clean
+22500342,3,363.0,1631105,Jalen Duren,1631200,Kris Murray,3,0.0,17,0.1415,j_rElbow,False,Clean
+22500342,3,332.0,1631105,Jalen Duren,1631321,Sidy Cissoko,3,0.0,10,0.0403,j_rElbow,False,Clean
+22500342,3,330.0,1630191,Isaiah Stewart,1641739,Toumani Camara,0,0.0,0,0.0,none,False,Clean
+22500342,3,261.0,1630166,Deni Avdija,1641842,Ronald Holland II,6,0.0007,56,0.0959,j_lWrist,True,Crowding
+22500342,3,230.0,1630166,Deni Avdija,1631093,Jaden Ivey,2,0.0,8,0.0308,j_lWrist,False,Clean
+22500342,3,199.0,1630166,Deni Avdija,1631093,Jaden Ivey,2,0.0,8,0.0308,j_lWrist,False,Clean
+22500342,3,151.0,1631101,Shaedon Sharpe,1627747,Caris LeVert,2,0.0,18,0.06,j_lWrist,False,Clean
+22500342,3,122.0,1641842,Ronald Holland II,1631101,Shaedon Sharpe,1,0.0,2,0.014,j_lWrist,False,Clean
+22500342,4,651.0,202699,Tobias Harris,1641739,Toumani Camara,1,0.0,3,0.0168,j_rWrist,False,Clean
+22500342,4,647.0,1630191,Isaiah Stewart,1631321,Sidy Cissoko,7,0.0005,96,0.0777,j_rWrist,True,Crowding
+22500342,4,620.0,1630191,Isaiah Stewart,1631321,Sidy Cissoko,7,0.0005,96,0.0777,j_rWrist,True,Crowding
+22500342,4,530.0,202699,Tobias Harris,1630166,Deni Avdija,0,0.0,0,0.0,none,False,Clean
+22500342,4,489.0,1630166,Deni Avdija,1641842,Ronald Holland II,4,0.0,50,0.0359,j_lWrist,False,Clean
+22500342,4,406.0,1631321,Sidy Cissoko,1630191,Isaiah Stewart,21,0.0003,146,0.2335,j_rWrist,True,Crowding
+22500342,4,385.0,1642450,Daniss Jenkins,1631321,Sidy Cissoko,1,0.0006,1,0.0151,j_rShoulder,True,Crowding
+22500342,4,278.0,1631101,Shaedon Sharpe,1630191,Isaiah Stewart,8,0.0005,17,0.0893,j_rShoulder,True,Crowding
+22500342,4,201.0,1630595,Cade Cunningham,1631101,Shaedon Sharpe,4,0.0025,12,0.0745,j_lElbow,True,Crowding
+22500342,4,180.0,1630595,Cade Cunningham,1629057,Robert Williams III,4,0.0,18,0.0971,j_lElbow,False,Clean
+22500342,4,75.0,1629130,Duncan Robinson,1631200,Kris Murray,14,0.0004,120,0.0828,j_lElbow,True,Crowding
+22500342,4,43.8,1641842,Ronald Holland II,1630166,Deni Avdija,3,0.0,36,0.0396,j_lWrist,False,Clean
+22500342,4,21.2,203924,Jerami Grant,1631105,Jalen Duren,1,0.0,2,0.0989,j_lElbow,False,Clean
+22500342,4,19.8,1630595,Cade Cunningham,1631101,Shaedon Sharpe,4,0.0025,12,0.0745,j_lElbow,True,Crowding
+22500342,4,15.8,1630595,Cade Cunningham,1630166,Deni Avdija,0,0.0,0,0.0,none,False,Clean
+22500379,1,640.0,203994,Jusuf Nurkić,1629637,Jaxson Hayes,15,0.0007,90,0.214,j_lElbow,True,Crowding
+22500379,1,527.0,1629004,Svi Mykhailiuk,203935,Marcus Smart,0,0.0,0,0.0,none,False,Clean
+22500379,1,496.0,1629029,Luka Dončić,1629004,Svi Mykhailiuk,0,0.0,0,0.0,none,False,Clean
+22500379,1,407.0,1629637,Jaxson Hayes,1642268,Isaiah Collier,0,0.0,0,0.0,none,False,Clean
+22500379,1,288.0,1642268,Isaiah Collier,1641733,Nick Smith Jr.,4,0.0018,6,0.0892,j_rWrist,True,Crowding
+22500379,1,272.0,1629029,Luka Dončić,1641729,Brice Sensabaugh,1,0.0,3,0.0308,j_lElbow,False,Clean
+22500379,1,238.0,1629029,Luka Dončić,201567,Kevin Love,0,0.0,0,0.0,none,False,Clean
+22500379,1,181.0,1641707,Taylor Hendricks,1631222,Jake LaRavia,0,0.0,0,0.0,none,False,Clean
+22500379,1,164.0,1629029,Luka Dončić,1642268,Isaiah Collier,0,0.0,0,0.0,none,False,Clean
+22500379,1,111.0,1641707,Taylor Hendricks,1629020,Jarred Vanderbilt,11,0.0015,84,0.1522,j_rWrist,True,Crowding
+22500379,1,60.0,1629029,Luka Dončić,1642271,Kyle Filipowski,2,0.0,18,0.0258,j_lWrist,False,Clean
+22500379,1,48.5,1642268,Isaiah Collier,1631222,Jake LaRavia,2,0.0048,5,0.0347,j_lElbow,True,Crowding
+22500379,1,3.2,2544,LeBron James,1641707,Taylor Hendricks,1,0.0001,1,0.0032,j_lWrist,True,Crowding
+22500379,2,650.0,1642268,Isaiah Collier,1642876,Adou Thiero,1,0.0,6,0.1936,j_rElbow,False,Clean
+22500379,2,609.0,1642846,Ace Bailey,1642876,Adou Thiero,5,0.0,25,0.0156,j_lWrist,False,Clean
+22500379,2,587.0,1641729,Brice Sensabaugh,203935,Marcus Smart,3,0.001,20,0.0908,j_rElbow,True,Crowding
+22500379,2,541.0,203994,Jusuf Nurkić,1642876,Adou Thiero,3,0.0,23,0.0945,j_lWrist,False,Clean
+22500379,2,514.0,1642383,Walter Clayton Jr.,1631222,Jake LaRavia,0,0.0,0,0.0,none,False,Clean
+22500379,2,501.0,2544,LeBron James,1641707,Taylor Hendricks,1,0.0,5,0.0464,j_rElbow,False,Clean
+22500379,2,472.0,2544,LeBron James,1642383,Walter Clayton Jr.,6,0.0002,16,0.1939,j_rWrist,True,Crowding
+22500379,2,450.0,203994,Jusuf Nurkić,1629060,Rui Hachimura,1,0.0,3,0.0524,j_rShoulder,False,Clean
+22500379,2,293.0,203994,Jusuf Nurkić,1629637,Jaxson Hayes,11,0.0,60,0.1757,j_lElbow,False,Clean
+22500379,2,88.0,1641718,Keyonte George,1628467,Maxi Kleber,2,0.0,10,0.028,j_lWrist,False,Clean
+22500379,2,67.0,2544,LeBron James,1641718,Keyonte George,5,0.0001,26,0.1493,j_rHip,True,Crowding
+22500379,2,46.0,1641718,Keyonte George,2544,LeBron James,8,0.0011,92,0.0778,j_rElbow,True,Crowding
+22500379,2,8.0,1642268,Isaiah Collier,1629029,Luka Dončić,5,0.0001,18,0.0215,j_rWrist,True,Crowding
+22500379,2,3.3,1629029,Luka Dončić,1641707,Taylor Hendricks,1,0.0131,4,0.0716,j_lShoulder,True,Crowding
+22500379,3,600.0,203994,Jusuf Nurkić,203935,Marcus Smart,1,0.0,4,0.0132,j_lWrist,False,Clean
+22500379,3,521.0,1642846,Ace Bailey,1629029,Luka Dončić,1,0.0,5,0.0123,j_rWrist,False,Clean
+22500379,3,432.0,2544,LeBron James,1642271,Kyle Filipowski,1,0.0,4,0.1517,j_lElbow,False,Clean
+22500379,3,358.0,1629029,Luka Dončić,1642268,Isaiah Collier,3,0.0,16,0.0846,j_lWrist,False,Clean
+22500379,3,275.0,201567,Kevin Love,1629637,Jaxson Hayes,14,0.0,132,0.1711,j_lElbow,False,Clean
+22500379,3,256.0,1629029,Luka Dončić,1641707,Taylor Hendricks,3,0.0,12,0.0537,j_lWrist,False,Clean
+22500379,3,80.0,1642268,Isaiah Collier,1629020,Jarred Vanderbilt,2,0.001,2,0.0257,j_rElbow,True,Crowding
+22500379,3,72.0,1629029,Luka Dončić,201567,Kevin Love,3,0.0009,9,0.123,j_rElbow,True,Crowding
+22500379,4,632.0,1628467,Maxi Kleber,201567,Kevin Love,7,0.0,44,0.0836,j_lElbow,False,Clean
+22500379,4,607.0,1628467,Maxi Kleber,1642383,Walter Clayton Jr.,0,0.0,0,0.0,none,False,Clean
+22500379,4,502.0,2544,LeBron James,1641707,Taylor Hendricks,1,0.0,3,0.0472,j_rShoulder,False,Clean
+22500379,4,484.0,1641718,Keyonte George,1631222,Jake LaRavia,6,0.0001,15,0.0835,j_rElbow,True,Crowding
+22500379,4,396.0,1628467,Maxi Kleber,1642268,Isaiah Collier,1,0.0004,1,0.0092,j_lHip,True,Crowding
+22500379,4,386.0,1629029,Luka Dončić,1641718,Keyonte George,3,0.0,16,0.0333,j_lElbow,False,Clean
+22500379,4,377.0,1641718,Keyonte George,203935,Marcus Smart,0,0.0,0,0.0,none,False,Clean
+22500379,4,278.0,1641718,Keyonte George,203935,Marcus Smart,0,0.0,0,0.0,none,False,Clean
+22500379,4,243.0,1642846,Ace Bailey,1629060,Rui Hachimura,3,0.0017,8,0.0804,j_lElbow,True,Crowding
+22500379,4,231.0,1629637,Jaxson Hayes,1642846,Ace Bailey,2,0.0,5,0.0024,j_lWrist,False,Clean
+22500379,4,122.0,1641718,Keyonte George,1631222,Jake LaRavia,6,0.0001,15,0.0835,j_rElbow,True,Crowding
+22500379,4,42.0,1642846,Ace Bailey,1629060,Rui Hachimura,3,0.0017,8,0.0804,j_lElbow,True,Crowding
+22500379,4,41.0,2544,LeBron James,203994,Jusuf Nurkić,3,0.0,41,0.0528,j_lElbow,False,Clean
+22500379,4,37.1,1641718,Keyonte George,1629060,Rui Hachimura,0,0.0,0,0.0,none,False,Clean
+22500379,4,29.4,1631222,Jake LaRavia,1641718,Keyonte George,12,0.0,56,0.0788,j_lElbow,False,Clean
+22500379,4,20.4,1629029,Luka Dončić,1642271,Kyle Filipowski,0,0.0,0,0.0,none,False,Clean
+22500379,4,11.4,2544,LeBron James,1642271,Kyle Filipowski,2,0.0,39,0.0451,j_lWrist,False,Clean
+22500559,1,360.0,1642277,Johnny Furphy,1631248,Baylor Scheierman,0,0.0,0,0.0,none,False,Clean
+22500559,1,242.0,1631248,Baylor Scheierman,1630643,Jay Huff,0,0.0,0,0.0,none,False,Clean
+22500559,1,54.6,1628401,Derrick White,1630174,Aaron Nesmith,7,0.0125,34,0.1393,j_lElbow,True,Crowding
+22500559,2,568.0,1627783,Pascal Siakam,1628401,Derrick White,1,0.0052,1,0.1322,j_lElbow,True,Crowding
+22500559,2,459.0,1631245,Quenton Jackson,1630573,Sam Hauser,4,0.0006,11,0.0209,j_lWrist,True,Crowding
+22500559,2,373.0,1641716,Jarace Walker,1629014,Anfernee Simons,2,0.0,14,0.0988,j_rElbow,False,Clean
+22500559,2,367.0,1627783,Pascal Siakam,1631248,Baylor Scheierman,7,0.0001,62,0.1609,j_rWrist,True,Crowding
+22500559,4,608.0,1630573,Sam Hauser,1641716,Jarace Walker,5,0.0025,16,0.1667,j_rWrist,True,Crowding
+22500559,4,576.0,1629674,Neemias Queta,1631245,Quenton Jackson,1,0.0005,1,0.0127,j_lElbow,True,Crowding
+22500559,4,500.0,204456,T.J. McConnell,1641775,Jordan Walsh,4,0.001,13,0.0846,j_lShoulder,True,Crowding
+22500559,4,220.0,1629674,Neemias Queta,1641716,Jarace Walker,5,0.0001,24,0.1276,j_rWrist,True,Crowding
+22500559,4,5.1,1630202,Payton Pritchard,1629614,Andrew Nembhard,0,0.0,0,0.0,none,False,Clean
+22500676,1,191.0,1628991,Jaren Jackson Jr.,1642883,Sion James,0,0.0,0,0.0,none,False,Clean
+22500676,1,28.0,1641765,Olivier-Maxence Prosper,1629012,Collin Sexton,1,0.0,4,0.0095,j_rWrist,False,Clean
+22500676,2,592.0,1629012,Collin Sexton,1631246,Vince Williams Jr.,3,0.0,9,0.0132,j_lWrist,False,Clean
+22500676,2,19.2,1629111,Jock Landale,1642883,Sion James,1,0.0,7,0.0592,j_rWrist,False,Clean
+22500676,3,709.0,1630163,LaMelo Ball,1642377,Jaylen Wells,6,0.0,44,0.0941,j_lElbow,False,Clean
+22500676,3,691.0,1629111,Jock Landale,1642851,Kon Knueppel,1,0.0002,1,0.0055,j_lWrist,True,Crowding
+22500676,3,477.0,1642907,Cedric Coward,1642851,Kon Knueppel,2,0.0,9,0.0785,j_lElbow,False,Clean
+22500676,3,417.0,1642851,Kon Knueppel,1642285,Cam Spencer,4,0.0008,12,0.0192,j_lElbow,True,Crowding
+22500676,4,687.0,1641713,GG Jackson,1628970,Miles Bridges,5,0.0001,45,0.1497,j_lWrist,True,Crowding
+22500676,4,650.0,1631246,Vince Williams Jr.,1630163,LaMelo Ball,1,0.0,2,0.0064,j_lWrist,False,Clean
+22500676,4,620.0,1641713,GG Jackson,1631217,Moussa Diabaté,11,0.0032,35,0.0812,j_rElbow,True,Crowding
+22500676,4,492.0,1628970,Miles Bridges,1628991,Jaren Jackson Jr.,0,0.0,0,0.0,none,False,Clean
+22500676,4,404.0,1631217,Moussa Diabaté,1629111,Jock Landale,29,0.0003,172,0.177,j_lElbow,True,Crowding
+22500676,4,366.0,1631217,Moussa Diabaté,1642377,Jaylen Wells,5,0.0,25,0.1818,j_lElbow,False,Clean
+22500676,4,291.0,1642285,Cam Spencer,1629012,Collin Sexton,1,0.0,7,0.0513,j_lElbow,False,Clean
+22500676,4,22.6,1629684,Grant Williams,1642377,Jaylen Wells,5,0.0001,19,0.0825,j_lWrist,True,Crowding
+22500785,1,450.0,1631114,Jalen Williams,1630692,Jordan Goodwin,7,0.0,27,0.0686,j_lElbow,False,Clean
+22500785,1,289.0,1626220,Royce O'Neale,1631114,Jalen Williams,1,0.0,8,0.0569,j_rWrist,False,Clean
+22500785,1,50.9,1629026,Kenrich Williams,1642346,Ryan Dunn,3,0.0005,19,0.0833,j_lElbow,True,Crowding
+22500785,1,17.3,1629599,Amir Coffey,1631096,Chet Holmgren,1,0.0,22,0.0853,j_rWrist,False,Clean
+22500785,1,2.2,1631114,Jalen Williams,1629599,Amir Coffey,0,0.0,0,0.0,none,False,Clean
+22500785,2,648.0,1628392,Isaiah Hartenstein,1631221,Collin Gillespie,1,0.0,2,0.0175,j_lElbow,False,Clean
+22500785,2,581.0,1631096,Chet Holmgren,1642346,Ryan Dunn,1,0.0,3,0.0119,j_lWrist,False,Clean
+22500785,2,397.0,1642272,Jared McCain,1628415,Dillon Brooks,0,0.0,0,0.0,none,False,Clean
+22500785,2,392.0,1630198,Isaiah Joe,1626220,Royce O'Neale,1,0.0,3,0.1473,j_lShoulder,False,Clean
+22500785,2,328.0,1628415,Dillon Brooks,1628392,Isaiah Hartenstein,0,0.0,0,0.0,none,False,Clean
+22500785,2,162.0,1642346,Ryan Dunn,1631119,Jaylin Williams,3,0.0005,6,0.027,j_rWrist,True,Crowding
+22500785,3,598.0,1628415,Dillon Brooks,1629652,Luguentz Dort,11,0.0002,35,0.189,j_lShoulder,True,Crowding
+22500785,3,397.0,1628415,Dillon Brooks,1629652,Luguentz Dort,11,0.0002,35,0.189,j_lShoulder,True,Crowding
+22500785,3,382.0,1631096,Chet Holmgren,1626220,Royce O'Neale,2,0.0,11,0.1005,j_lElbow,False,Clean
+22500785,3,338.0,1631096,Chet Holmgren,1628415,Dillon Brooks,3,0.0,12,0.1413,j_rElbow,False,Clean
+22500785,3,269.0,1631114,Jalen Williams,1628415,Dillon Brooks,3,0.0008,13,0.0795,j_rElbow,True,Crowding
+22500785,3,60.0,1631123,Jamaree Bouyea,1630198,Isaiah Joe,5,0.0003,29,0.0593,j_lElbow,True,Crowding
+22500785,4,570.0,1642346,Ryan Dunn,1631119,Jaylin Williams,2,0.0,17,0.0732,j_lWrist,False,Clean
+22500785,4,447.0,1631119,Jaylin Williams,1642853,Rasheer Fleming,8,0.0,31,0.1714,j_lElbow,False,Clean
+22500799,1,683.0,1629674,Neemias Queta,1630611,Gui Santos,15,0.0004,154,0.1193,j_rWrist,True,Crowding
+22500799,1,307.0,1627759,Jaylen Brown,1630541,Moses Moody,9,0.0001,78,0.1421,j_lWrist,True,Crowding
+22500799,1,84.0,202696,Nikola Vučević,1642954,Will Richard,2,0.0,11,0.0604,j_lWrist,False,Clean
+22500799,2,682.0,204001,Kristaps Porziņģis,1630573,Sam Hauser,5,0.0,17,0.1075,j_lWrist,False,Clean
+22500799,2,418.0,1642954,Will Richard,1627759,Jaylen Brown,2,0.0,6,0.0172,j_lWrist,False,Clean
+22500799,2,237.0,1627759,Jaylen Brown,1642954,Will Richard,3,0.0001,9,0.0427,j_lWrist,True,Crowding
+22500799,2,194.0,1627759,Jaylen Brown,1630611,Gui Santos,4,0.0004,38,0.0904,j_lElbow,True,Crowding
+22500799,3,543.0,1630611,Gui Santos,1627759,Jaylen Brown,3,0.0,9,0.0221,j_lWrist,False,Clean
+22500799,3,349.0,1628401,Derrick White,1629001,De'Anthony Melton,6,0.0,32,0.1706,j_lElbow,False,Clean
+22500799,3,272.0,1627759,Jaylen Brown,1629001,De'Anthony Melton,6,0.0,50,0.1306,j_lElbow,False,Clean
+22500799,3,248.0,1630541,Moses Moody,202696,Nikola Vučević,0,0.0,0,0.0,none,False,Clean
+22500799,3,49.7,1630202,Payton Pritchard,1642954,Will Richard,7,0.0,42,0.1308,j_lElbow,False,Clean
+22500799,4,602.0,1629001,De'Anthony Melton,1631248,Baylor Scheierman,7,0.0003,37,0.2405,j_neck,True,Crowding
+22500799,4,273.0,1627759,Jaylen Brown,1630611,Gui Santos,9,0.0005,43,0.0777,j_lElbow,True,Crowding
+22500799,4,121.0,202696,Nikola Vučević,1630611,Gui Santos,11,0.0018,48,0.1922,j_rKnee,True,Crowding
+22500799,4,96.0,1629001,De'Anthony Melton,1627759,Jaylen Brown,14,0.0004,114,0.1497,j_lShoulder,True,Crowding
